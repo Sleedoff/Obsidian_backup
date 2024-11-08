@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "69d65ced96398f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa793785308600c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9d9188a25aea49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91de55efb989781",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a3ecf8ccb096de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10794c8b1dd66b5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4c32b3771c429e7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e995d7eb84383b64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1a7cac6c32fb541",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0e889711f15f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81509b532929a0ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4ca56ed3a752f856",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "561388107cdcdeb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1e8778d05fef64a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6c9d9188a25aea49",
+  "lastOpenFiles": [
+    "2024/Книги/Компьютерные системы. Архитектура и программирование..md",
+    "2024/! Ноябрь/08.11.2024 Первый рабочий день.md",
+    "2024/! Ноябрь/07.11.2024 День возвращения.md",
+    "2024/!! C/! Оглавление.md",
+    "2024/!! C/10. Функции.md",
+    "2024/!! C/9. Указатели.md",
+    "2024/!! C/8. Функция scanf().md",
+    "2024/!! C/7. Массивы.md",
+    "2024/!! C/6. Циклы.md",
+    "2024/!! C/5. Условные конструкции.md",
+    "2024/!! C/4. Поразрядные операции.md",
+    "2024/!! C/3. Функция printf().md",
+    "2024/!! C/2. Переменные.md",
+    "2024/!! C/1. Основы языка С.md",
+    "2024/!! Схемотехника/Основные единицы измерения.md",
+    "2024-11-08.md"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "69c3123026773126",
+    "type": "split",
+    "children": [
+      {
+        "id": "851277573a512459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b54aedb10873274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/! Ноябрь/06.11.2024 День перед возвращением.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.11.2024 День перед возвращением"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b85eefc2169cd1d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8acb0773b9790e91",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "bb2e7dee0f3f6371",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cc39483c659b4977",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "07b330530154814d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "44deeb927e579ec7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "13c3fa11b81d4ed0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2024/!! Схемотехника/Основные единицы измерения.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "a972618b7253ed1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "22a0644575521e30",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5b54aedb10873274",
+  "lastOpenFiles": [
+    "2024/! Ноябрь/05.11.2024 Хорошие новости.md",
+    "2024/! Ноябрь/06.11.2024 День перед возвращением.md",
+    "2024/!! C/10. Функции.md",
+    "2024/!! C/2. Переменные.md",
+    "2024/Изображения/Screenshot_2024-11-04-10-25-13-365_com.android.chrome-edit.jpg",
+    "2024/Изображения/Screenshot_2024-11-04-10-24-04-421_com.android.chrome-edit.jpg",
+    "2024/! Ноябрь/03.11.2024 Внутренняя борьба.md",
+    "2024/Книги/Компьютерные системы. Архитектура и программирование..md",
+    "2024/!! C/9. Указатели.md",
+    "2024/!! База знаний/Методики разработки.md",
+    "2024/Изображения/scrum-1-4939420.png",
+    "2024/Изображения/Phases-of-Agile-Model-825x1024.png",
+    "2024/Изображения/Example-of-Interative-Waterfall-Model.webp",
+    "2024/Изображения/lqip_q70.png",
+    "2024/Изображения/lqip_q70 (1).png",
+    "2024/! Ноябрь/02.11.24 Спокойный день.md",
+    "2024/!! База знаний/Документирование кода.md",
+    "2024/! Ноябрь/01.11.2024 Надеюсь скоро это всё закончится.md",
+    "2024/!! База знаний",
+    "2024/!! C/8. Функция scanf().md",
+    "2024/! Октябрь/31.10.24 Ебать, куда я попал.md",
+    "2024/!! C/7. Массивы.md",
+    "2024/!! C/6. Циклы.md",
+    "2024/!! C/5. Условные конструкции.md",
+    "2024/!! C/4. Поразрядные операции.md",
+    "2024/! Октябрь/30.10.2024 Новый день, новые проблемы.md",
+    "2024/!! Схемотехника/Основные единицы измерения.md",
+    "2024/!! C/3. Функция printf().md",
+    "2024/!! C/1. Основы языка С.md",
+    "2024/!! Схемотехника/Резисторы.md",
+    "2024/! Октябрь/28.10.2024 Мысли и мыслишки.md",
+    "2024/Изображения/Мантисса.png",
+    "2024/Изображения/1489834131198646551.png",
+    "2024/! Октябрь/29.10.2024 Ебать ту Люсю.md",
+    "2024/!! C",
+    "2024/Изображения",
+    "2024/! Ноябрь",
+    "2024/Книги",
+    "2024/! Октябрь/Начало начал.md",
+    "2024/!! Схемотехника",
+    "2024/! Октябрь",
+    "2024"
+  ]
+}
