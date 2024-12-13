@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"2024/! Декабрь\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1733119
+      }
+    },
+    {
+      "query": "path:\"2024/! Ноябрь\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8428025
+      }
+    },
+    {
+      "query": "path:\"2024/! Октябрь\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8110517
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 1.7078125,
+  "collapse-forces": false,
+  "centerStrength": 0.619791666666667,
+  "repelStrength": 10.3125,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 214,
   "scale": 0.36288736930121546,
   "close": true
 }
