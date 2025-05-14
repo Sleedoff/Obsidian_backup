@@ -1,6 +1,9 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "Blue Topaz",
   "theme": "moonstone",
-  "accentColor": "#9ed9d5",
-  "baseFontSize": 16
+  "accentColor": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Courier"
 }

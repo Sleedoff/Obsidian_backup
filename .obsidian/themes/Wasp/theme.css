@@ -50,7 +50,7 @@ background-color: #483699;
 
 .theme-light
      {
-         --background-primary:         #EDEDED;
+         --background-primary:         #b6b6b6;
          --background-secondary:       #C4C4C4;
           /* thick menu border */
          --background-primary-alt:     #;
@@ -66,7 +66,7 @@ background-color: #483699;
          --text-a-hover:               #D49335;
          --text-accent-hover:          #D49335;
 /* ^^^ added for hover over bracket internal links */
-         --inline-code:                #458588;
+         --inline-code:                #252929;
          /*  --text-mark:                  add if needed */
          --pre-code:                   #bebebe;
          /*  --text-highlight-bg:          add if needed */
